@@ -7,6 +7,7 @@
 ## Marco Anotonio Mendoza Calva
 
 ## Freyra Wendy Martinez Martinez
+{Freyra github}(https://github.com/Freyramartinez)
 
 ## Carol Mera Ibarra
 
