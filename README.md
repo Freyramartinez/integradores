@@ -11,6 +11,7 @@
 [Freyra github](https://github.com/Freyramartinez)
 
 ## Carol Mera Ibarra
+[Carol github](https://github.com/CarolMeraIbarra)
 
 ## Dulce Karen Gonzalez Yañez
 [Karen github](https://github.com/GonzalezKarencin)
