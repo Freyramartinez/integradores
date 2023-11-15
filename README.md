@@ -3,7 +3,7 @@
 # Integrantes 
 
 ## Eduardo Gomez Mejia
-
+[Eduardo github](https://gomezedu.github.io/EduardoGM.github.io/)
 ## Marco Anotonio Mendoza Calva
 [Marco github](https://github.com/MARCOANTONIOMMMMM)
 
