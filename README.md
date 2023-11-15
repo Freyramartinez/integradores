@@ -11,6 +11,7 @@
 ## Carol Mera Ibarra
 
 ## Dulce Karen Gonzalez Yañez
+[Karen github](https://github.com/GonzalezKarencin)
 
 ## Christopher Axel Leon Perez 
 
