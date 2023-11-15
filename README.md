@@ -9,6 +9,7 @@
 ## Freyra Wendy Martinez Martinez
 
 ## Carol Mera Ibarra
+[Carol github](https://github.com/CarolMeraIbarra)
 
 ## Dulce Karen Gonzalez Yañez
 
